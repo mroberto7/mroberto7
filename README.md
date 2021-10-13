@@ -3,7 +3,7 @@
 Tenho 31 anos, possuo sólida experiência em elaboração de estudos, posicionamentos e notas técnicas baseadas em evidências por meio de análise de dados. Antes de entrar de cabeça na minha paixão que é a transformar dados em informações trabalhei com o setor de Alimentos e Bebidas por quase dez anos. Hoje busco me aperfeiçoar em ferramentas que permitam analisar camadas ainda maiores de dados.
 
 - 🌱 Aprendendo:
-Python voltadas para análise de dados
+Python voltado para análise de dados
 
 
 - 📫 Contate-me:
